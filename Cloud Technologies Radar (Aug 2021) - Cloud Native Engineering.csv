@@ -1,0 +1,98 @@
+name,ring,quadrant,isNew,description
+SpringBoot,Scale,Development,FALSE,Take a step back
+SpringCloud,Master,Development,FALSE,Continue to focus
+Angular,Master,Development,FALSE,Todo
+NodeJS,Master,Development,FALSE,Todo
+ReactJS,Master,Development,FALSE,Todo
+TypeScript,Master,Development,FALSE,Todo
+Micro-runtime RedHat Quarkus,Invest,Development,TRUE,Todo
+Micro-runtime Micronaut,Explore,Development,TRUE,Todo
+GoLang,Invest,Development,FALSE,Todo
+.Net Core C#,Scale,Development,FALSE,Todo
+.Net Core VB.Net,Master,Development,FALSE,Todo
+Python,Invest,Development,FALSE,Todo
+RedHat CodeReadyContainers,Invest,Development,TRUE,Todo
+RedHat CodeReadyContainers Studio,Invest,Development,TRUE,Todo
+Visual Studio Code,Master,Development,FALSE,Todo
+Visual Studio,Master,Development,FALSE,Todo
+Eclipse,Master,Development,FALSE,Todo
+Docker,Scale,Containerization,FALSE,Todo
+Podman,Invest,Containerization,TRUE,Todo
+OpenShift S2I (Source2Image),Master,Containerization,TRUE,Todo
+Rkt,Explore,Containerization,TRUE,Todo
+Kubernetes,Scale,Containerization,FALSE,"All DIY and Managed Services (EKS, IKS, AKS and GKE)"
+Azure Kubernetes Service,Scale,Containerization,FALSE,"All DIY and Managed Services (EKS, IKS, AKS and GKE)"
+AWS Elastic Kubernetes Service,Scale,Containerization,FALSE,"All DIY and Managed Services (EKS, IKS, AKS and GKE)"
+Google Kubernetes Engine,Master,Containerization,FALSE,"All DIY and Managed Services (EKS, IKS, AKS and GKE)"
+IBM Kubernetes Service,Master,Containerization,FALSE,"All DIY and Managed Services (EKS, IKS, AKS and GKE)"
+RedHat OpenShift,Scale,Containerization,FALSE,Todo
+Pivotal Cloud Foundry,Master,Containerization,FALSE,Todo
+VMWare Tanzu,Explore,Containerization,TRUE,Todo
+Pivotal Container Services,Explore,Containerization,TRUE,Todo
+Rancher,Explore,Containerization,TRUE,Todo
+Apache Mesos,Explore,Containerization,TRUE,Todo
+Docker Swarm,Master,Containerization,FALSE,Todo
+AWS Fargate,Master,Containerization,FALSE,Container as Service
+AWS ECS,Master,Containerization,FALSE,"Container as Service, Vendor lock-in"
+Google Anthos,Invest,Containerization,TRUE,Multi-Cloud Management
+IBM CloudPak for Multi-Cloud Management,Invest,Containerization,TRUE,Multi-Cloud Management
+HelmCharts,Invest,Containerization,FALSE,
+Kubernetes Operators,Invest,Containerization,TRUE,
+Microservice Architecture,Master,Architectures,FALSE,Todo
+Microservices - Reactive Microservices,Invest,Architectures,TRUE,Todo
+FaaS - Lambda,Scale,Architectures,FALSE,Todo
+FaaS - Azure Functions,Scale,Architectures,FALSE,Todo
+FaaS - Google Functions,Master,Architectures,FALSE,Todo
+FaaS - OpenFaaS on Kubernetes,Explore,Architectures,TRUE,Todo
+FaaS - IBMCloud Functions,Explore,Architectures,TRUE,Todo
+Container Serverless - Knative on Kubernetes,Master,Architectures,TRUE,Todo
+Container Serverless - OpenShift Serverless,Master,Architectures,TRUE,Todo
+Container Serverless - Eventing,Master,Architectures,TRUE,Todo
+Micro-frontend architectures,Invest,Architectures,TRUE,Todo
+API Gateway - 3Scale,Master,Platform Services,FALSE,Todo
+API Gateway - Apigee,Master,Platform Services,FALSE,Todo
+ServiceMesh - Istio,Master,Platform Services,FALSE,Todo
+ServiceMesh - Linkered,Invest,Platform Services,FALSE,Todo
+Caching - Redis Cache,Master,Platform Services,FALSE,Todo
+Kafka,Master,Platform Services,FALSE,Todo
+AWS Kinesis / Firehose,Master,Platform Services,FALSE,Todo
+RabbitMQ,Master,Platform Services,FALSE,Todo
+IBM MQ,Invest,Platform Services,FALSE,Todo
+Logging - ELK - ElasticSearch LogStash Kibana,Master,Platform Services,FALSE,Todo
+Logging - EFK - ElasticSearch Fluentd Kibana,Master,Platform Services,FALSE,Todo
+AWS RDS / Aurora,Scale,Platform Services,FALSE,RDBMS
+AWS RedShift,Invest,Platform Services,FALSE,Columnar DB
+AWS DynamoDB,Master,Platform Services,FALSE,
+AWS DocumentDB,Invest,Platform Services,FALSE,
+AWS Glue,Master,Platform Services,FALSE,
+AWS EMR,Invest,Platform Services,FALSE,Elastic Map Reduce (Spark Jobs at Scale)
+AWS Step Functions,Master,Platform Services,TRUE,Orchestration
+AWS Managed Airflow,Invest,Platform Services,FALSE,Orchestration
+AWS HoneyCode,Explore,Development,TRUE,Aws Low code platform
+AWS Amplify,Explore,Development,TRUE,"Small apps, single page deployments. More like a CDN for smaller sites."
+AWS Kinesis / Firehose,Invest,Development,FALSE,
+Apache Camel,Invest,Development,FALSE,
+AWS MQ,Invest,Development,FALSE,
+AWS Batch,Invest,Development,TRUE,
+AWS GreenGrass,Explore,Development,TRUE,"AWS IoT Greengrass is an Internet of Things (IoT) open source edge runtime and cloud service that helps you build, deploy, and manage device software."
+AWS IoT Core,Explore,Platform Services,TRUE,
+AWS IoT Device Defender,Explore,Platform Services,TRUE,
+AWS IoT Device Managemen t,Explore,Platform Services,TRUE,
+AWS IoT SiteWise,Explore,Platform Services,TRUE,
+AWS IoT Events,Explore,Platform Services,TRUE,
+Azure IoT hub,Explore,Platform Services,FALSE,
+Azure Application Insights,Invest,Platform Services,FALSE,
+Azure SQL Server,Scale,Development,FALSE,
+Zuul,Invest,Development,FALSE,
+Hystrix,Invest,Development,FALSE,
+Azure ServiceBus,Scale,Platform Services,FALSE,
+MuleSoft ESB,Invest,Platform Services,FALSE,
+Fuse,Explore,Platform Services,FALSE,
+JBPM,Explore,Platform Services,FALSE,
+Camel,Invest,Development,FALSE,
+Activiti,Explore,Development,FALSE,
+Dell Boomi,Explore,Platform Services,TRUE,
+IBM App Connect,Explore,Platform Services,TRUE,
+MuleSoft Anypoint Platform,Explore,Platform Services,FALSE,
+Microsoft Azure logic apps,Scale,Platform Services,FALSE,
+Apache Libcloud,Explore,Platform Services,TRUE,

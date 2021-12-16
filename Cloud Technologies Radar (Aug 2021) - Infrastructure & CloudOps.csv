@@ -1,0 +1,70 @@
+name,ring,quadrant,isNew,description
+Terraform,Scale,Infrastructure,FALSE,
+Helm Charts,Master,Infrastructure,FALSE,
+Flux,Invest,Infrastructure,FALSE,
+Ansible,Scale,Infrastructure,FALSE,
+Cluster API,Explore,Multi-Cloud,TRUE,
+kOps,Explore,Multi-Cloud,TRUE,
+IBM MCM,Master,Multi-Cloud,TRUE,
+Google Anthos,Invest,Multi-Cloud,TRUE,
+Azure Arc,Explore,Multi-Cloud,TRUE,
+Private Cloud Managed Kubernetes,Master,Infrastructure,FALSE,
+Public Cloud Managed Kubernetes,Master,Infrastructure,FALSE,
+Private Cloud OpenShift,Master,Infrastructure,FALSE,
+ROSA RedHat OpenShift on AWS,Invest,Infrastructure,TRUE,
+ARO Azure RedHat OpenShift,Invest,Infrastructure,TRUE,
+RedHat Advanced Cluster Management,Explore,Multi-Cloud,TRUE,
+Maria DB,Master,Managed Services,FALSE,
+Cockroach DB,Invest,Managed Services,FALSE,
+Cassandra,Master,Managed Services,FALSE,
+AWS Dynamo DB,Master,Managed Services,FALSE,
+CloudSQL,Master,Managed Services,FALSE,
+Mongo DB,Scale,Managed Services,FALSE,
+Aws Aurora,Master,Managed Services,FALSE,
+Elastic Search,Scale,Managed Services,FALSE,
+PostgreSQL,Scale,Managed Services,FALSE,
+MySQL,Scale,Managed Services,FALSE,
+Managed SQL Server,Scale,Managed Services,FALSE,
+Managed Oracle DB,Scale,Managed Services,FALSE,
+Managed DB2,Invest,Managed Services,FALSE,
+Thanos,Explore,Observability Monitoring and Mgmt,TRUE,
+OpenTelemetry,Explore,Observability Monitoring and Mgmt,FALSE,
+Kiali,Invest,Observability Monitoring and Mgmt,TRUE,
+Splunk,Master,Observability Monitoring and Mgmt,FALSE,
+ELK,Master,Observability Monitoring and Mgmt,FALSE,
+EFK,Master,Observability Monitoring and Mgmt,FALSE,
+Sentry,Invest,Observability Monitoring and Mgmt,FALSE,
+AWS Cloudwatch,Scale,Observability Monitoring and Mgmt,FALSE,
+LightStep,Invest,Observability Monitoring and Mgmt,TRUE,
+Stated,Invest,Observability Monitoring and Mgmt,TRUE,
+Jaeger,Invest,Observability Monitoring and Mgmt,FALSE,
+Prometheus,Scale,Observability Monitoring and Mgmt,FALSE,
+OpenMetrics,Invest,Observability Monitoring and Mgmt,FALSE,
+Datadog,Invest,Observability Monitoring and Mgmt,FALSE,
+Grafana,Scale,Observability Monitoring and Mgmt,FALSE,
+Appvia,Invest,Multi-Cloud,TRUE,
+AWS Savings Plan,Explore,Infrastructure,FALSE,Discount Programs
+Azure Hybrid Benefit,Invest,Infrastructure,FALSE,Discount Programs
+Azure Reservations,Invest,Infrastructure,FALSE,Discount Programs
+GCP Sustained Use Discounts,Invest,Infrastructure,FALSE,Discount Programs
+GCP Comminted Use Discounts,Invest,Infrastructure,FALSE,Discount Programs
+EC2 Spot Instances,Scale,Infrastructure,FALSE,Interruptible VMs
+Azure Spot VMs,Scale,Infrastructure,FALSE,Interruptible VMs
+GCP Preemptible Virtual Machines,Explore,Infrastructure,FALSE,Interruptible VMs
+AWS Budgets,Invest,Observability Monitoring and Mgmt,FALSE,Spending Tracker and analysis
+AWS Anomaly Detection,Invest,Observability Monitoring and Mgmt,FALSE,Spending Tracker and analysis
+AWS Cost Explorer,Scale,Observability Monitoring and Mgmt,FALSE,Spending Tracker and analysis
+AWS Cost & Usage Report,Scale,Observability Monitoring and Mgmt,FALSE,Spending Tracker and analysis
+Azure Cost Management & Billing,Scale,Observability Monitoring and Mgmt,FALSE,Spending Tracker and analysis
+GCP Cost Management,Scale,Observability Monitoring and Mgmt,FALSE,Spending Tracker and analysis
+AWS Proton,Invest,Infrastructure,FALSE,Automation
+AWS OpsWorks,Invest,Infrastructure,FALSE,Automation
+Azure Resource Manager,Invest,Infrastructure,FALSE,Automation
+Azure Automation,Invest,Infrastructure,FALSE,Automation
+GCP Cloud Deployment Mgr,Invest,Infrastructure,FALSE,Automation
+GCP Cloud Scheduler,Invest,Infrastructure,FALSE,Automation
+Amazon EKS Anywhere,Explore,Multi-Cloud,TRUE,Hybrid & Multi-cloud Management
+Amazon ECS Anywhere,Explore,Multi-Cloud,TRUE,Hybrid & Multi-cloud Management
+AWS Nitro Enclaves,Explore,Infrastructure,TRUE,Confidential Computing
+Azure Confidential Computing,Explore,Infrastructure,TRUE,Confidential Computing
+GCP Confidential Computing,Explore,Infrastructure,TRUE,Confidential Computing

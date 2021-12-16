@@ -1,0 +1,55 @@
+name,ring,quadrant,isNew,description
+MySQL,Scale,Managed DB,FALSE,
+PostgreSQL,Scale,Managed DB,FALSE,
+AWS DynamoDB,Master,Managed DB,FALSE,
+AWS RDS / Aurora,Scale,Managed DB,FALSE,RDBMS
+AWS RedShift,Scale,Analytics,FALSE,Columnar DB
+Azure Synapse Analytics,Scale,Analytics,FALSE,
+GCP BigQuery,Explore,Analytics,FALSE,Data Warehousing
+AWS DocumentDB,Invest,Managed DB,FALSE,
+AWS Glue,Master,Managed ETL & Orchestration,FALSE,ETL
+Amazon SageMaker Data Wrangler,Explore,Analytics,TRUE,ETL
+Azure Data Factory,Scale,Analytics,FALSE,ETL
+GCP Cloud Data Fusion,Invest,Analytics,FALSE,ETL
+GCP Dataflow,Invest,Analytics,FALSE,ETL
+GCP Dataproc,Invest,Analytics,FALSE,ETL
+AWS EMR,Invest,Managed ETL & Orchestration,FALSE,Elastic Map Reduce (Spark Jobs at Scale)
+Azure Databricks,Scale,Managed ETL & Orchestration,FALSE,BigData Processing
+Azure HDInsight,Invest,Analytics,FALSE,BigData Processing
+AWS Step Functions,Master,Managed ETL & Orchestration,TRUE,Orchestration
+AWS Managed Airflow,Invest,Managed ETL & Orchestration,FALSE,Orchestration
+AWS QuickSight,Explore,Analytics,TRUE,
+Azure Power BI Embedded,Invest,Analytics,TRUE,
+GCP Looker,Explore,Analytics,TRUE,Business Analytics
+Google Data Studio,Explore,Analytics,TRUE,Business Analytics
+AWS Athena,Explore,Analytics,TRUE,
+Apache Hudi,Explore,Managed ETL & Orchestration,TRUE,
+DeltaLake,Explore,Managed ETL & Orchestration,FALSE,
+Snowflake,Scale,Managed DB,FALSE,
+Terradata,Scale,Managed DB,FALSE,
+Collebra,Explore,Metadata,TRUE,
+Alation,Explore,Metadata,TRUE,
+AWS GreenGrass,Explore,Managed DB,TRUE,
+AWS IoT Analytics,Explore,Analytics,TRUE,
+AWS IoT Things Graph,Explore,Analytics,TRUE,
+Redis Cache,Master,Managed DB,FALSE,
+Memcached,Master,Managed DB,FALSE,
+GCP BigQuery,Invest,Managed DB,FALSE,
+GCP BigTable,Invest,Managed DB,FALSE,
+Consul,Explore,Managed DB,FALSE,
+AWS Lake Formation,Explore,Analytics,FALSE,
+AWS HealthLake,Explore,Analytics,TRUE,
+Azure Data Lake Storage,Explore,Analytics,FALSE,
+GCP Cloud Storate,Explore,Analytics,FALSE,
+Amazon CloudSearch,Invest,Analytics,FALSE,
+Amazon Elasticsearch Service,Invest,Analytics,FALSE,
+Amazon Kendra,Explore,Analytics,FALSE,
+Azure Cognitive Search,Explore,Analytics,FALSE,Managed Search
+Azure BingSearch Services,Explore,Analytics,FALSE,Managed Search
+Amazon Managed Streaming for Kafka,Explore,Analytics,FALSE,Managed Kafka
+Azure EventHubs for Kafka,Explore,Analytics,FALSE,Managed Kafka
+Amazon Kinesis Data Analytics,Explore,Analytics,FALSE,Real-time Data Streaming
+Amazon Kinesis Data Streams,Explore,Analytics,FALSE,Real-time Data Streaming
+Azure Stream Analytics,Explore,Analytics,FALSE,Real-time Data Streaming
+GCP Dataflow,Invest,Analytics,FALSE,Real-time Data Streaming
+GCP Pub/Sub,Invest,Analytics,FALSE,Real-time Data Streaming

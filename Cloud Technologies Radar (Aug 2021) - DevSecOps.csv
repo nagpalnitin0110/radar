@@ -1,0 +1,77 @@
+name,ring,quadrant,isNew,description
+Git,Scale,Source Control,FALSE,
+Atlassian Bitbucket,Master,Source Control,FALSE,
+GitHub,Master,Source Control,FALSE,
+AWS CodeCommit,Scale,Source Control,FALSE,
+Tortoise SVN,Master,Source Control,FALSE,
+Jfrog,Invest,CICD,FALSE,
+GitLab,Scale,Source Control,FALSE,
+Jenkins,Scale,CICD,FALSE,
+Travis,Invest,CICD,FALSE,
+Azure DevOps,Scale,CICD,FALSE,
+JetBrains TeamCity,Explore,Source Control,FALSE,
+CloudBees Core,Explore,Others,FALSE,
+Atlassian Bamboo,Invest,CICD,FALSE,
+Shippable,Explore,CICD,FALSE,
+Tekton,Master,CICD,FALSE,
+OpenShift Pipelines,Explore,CICD,FALSE,
+Concourse CI,Explore,CICD,FALSE,
+Docker,Scale,CICD,FALSE,
+Podman,Invest,CICD,FALSE,
+Kubernetes,Scale,CICD,FALSE,
+The LXC Linux Container,Explore,CICD,FALSE,
+containerd,Explore,CICD,FALSE,
+Terraform,Scale,Others,FALSE,
+rkt,Explore,CICD,FALSE,
+OpenShift Source2Image,Invest,CICD,FALSE,
+Ansible,Scale,CICD,FALSE,
+Helm Chart,Master,CICD,FALSE,
+Chef,Master,CICD,FALSE,
+Puppet,Master,CICD,FALSE,
+SaltStack,Explore,Others,FALSE,
+Fabric,Explore,Others,FALSE,
+CA Unified Infrastructure Management,Explore,Others,FALSE,
+K6,Explore,Others,FALSE,
+Test-Infra,Explore,Others,FALSE,
+Kube-Monkey,Explore,Others,FALSE,
+Litmus,Explore,Others,FALSE,
+Kube-Score,Explore,Others,FALSE,
+Keycloak,Invest,Security,FALSE,
+Qualys vulnerability-management,Explore,Security,FALSE,
+KubeLibrary,Explore,Others,FALSE,
+Codacy,Explore,CICD,FALSE,
+SonarQube,Scale,CICD,FALSE,
+Acunetix,Explore,CICD,FALSE,
+Logz.io,Explore,Others,FALSE,
+Contrast Security,Explore,Security,FALSE,
+Aqua Security,Explore,Security,FALSE,
+HashiCorp vault,Master,Security,FALSE,
+XebiaLabs,Explore,Security,FALSE,
+WhiteSource,Explore,Security,FALSE,
+Argo CD,Invest,CICD,FALSE,
+Jenkins X,Invest,CICD,FALSE,
+Spinnaker,Master,CICD,FALSE,
+Travis CI,Invest,CICD,TRUE,
+Jsonnet,Invest,CICD,TRUE,
+Circle CI,Invest,CICD,TRUE,
+Kustomize,Explore,CICD,TRUE,
+GCP Secrets Management,Invest,Security,FALSE,
+5ops,Explore,Security,TRUE,
+Bitnami Sealed Secrets,Explore,Security,TRUE,
+cert-manager,Master,Security,FALSE,
+AWS Secrets Manager,Master,Security,FALSE,
+Kubernetes Operators,Invest,Others,TRUE,
+AWS Artifact,Explore,Security,FALSE,Audit and Compliance
+AWS Audit Manager,Explore,Security,FALSE,Audit and Compliance
+Azure Service Trust Portal,Explore,Security,FALSE,Audit and Compliance
+AWS Security Hub,Explore,Security,FALSE,Centralized Security Management
+Azure Security Center,Explore,Security,FALSE,Centralized Security Management
+GCP Security Command Center,Explore,Security,FALSE,Centralized Security Management
+AWS Certificate Mgr,Invest,Security,FALSE,Certificate Management
+Azure App Service Certificates,Invest,Security,FALSE,Certificate Management
+GCP Certificate Authority Service,Invest,Security,FALSE,Certificate Management
+AWS Key Management Service,Scale,Security,FALSE,Key Management
+AWS CloudHSM,Invest,Security,FALSE,Key Management
+Azure Key Vault,Scale,Security,FALSE,Key Management
+Azure Dedicated HSM,Invest,Security,FALSE,Key Management
+GCP Cloud Key Management,Scale,Security,FALSE,Key Management
